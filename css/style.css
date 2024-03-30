@@ -8,7 +8,7 @@
 
 body {
     height: 100vh;
-    background: linear-gradient(120deg, #F7EEDD, #008DDA);
+    background: linear-gradient(120deg, #DCF2F1, #176B87);
     /*background: linear-gradient(120deg, #ffe53bd8, #ff2525da); */
     display: flex;
     align-items: center;
@@ -33,7 +33,7 @@ body {
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    color: #fff;
+    color: #DCF2F1;
     background: rgba(5, 5, 5, 0.9);
     box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.7);
     border-radius: 5px;
