@@ -8,7 +8,8 @@
 
 body {
     height: 100vh;
-    background: linear-gradient(120deg, #ffe53bd8, #ff2525da);
+    background: linear-gradient(120deg, #F7EEDD, #008DDA);
+    /*background: linear-gradient(120deg, #ffe53bd8, #ff2525da); */
     display: flex;
     align-items: center;
     justify-content: center;
@@ -21,7 +22,7 @@ body {
     height: 200px;
     width: 550px;
     background: transparent;
-    border-radius: 3px;
+    border-radius: 5px;
     box-shadow: 0px 8px 10px rgba(0, 0, 0, 0.5);
 }
 
@@ -35,7 +36,7 @@ body {
     color: #fff;
     background: rgba(5, 5, 5, 0.9);
     box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.7);
-    border-radius: 7px;
+    border-radius: 5px;
     letter-spacing: 3px;
 }
 
@@ -45,5 +46,5 @@ body {
 }
 
 .relogio span.tempo {
-    font-size: 10px;
+    font-size: 12px;
 }
